@@ -33,7 +33,7 @@
     git clone https://github.com/channapd/ai-powered-fashion-design-platform.git
 
 ### 2) Navigate to the project folder
-    cd ai-powered-fashion-design-platform
+    cd AI-Powered-Fashion-Design-Platform-main
 
 ### 3) Install Dependencies
     npm install
