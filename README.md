@@ -30,7 +30,7 @@
 ## Installation
 
 ### 1) Clone the repository
-    git clone https://github.com/channapd/ai-powered-fashion-design-platform.git
+    git clone https://github.com/channapd/AI-Powered-Fashion-Design-Platform.git
 
 ### 2) Navigate to the project folder
     cd AI-Powered-Fashion-Design-Platform-main
