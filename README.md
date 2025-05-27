@@ -4,6 +4,7 @@
 
 ### 1) AI-Generated Custom Designs
 - Generates customized clothing designs based on selected preferences like color, material, and patterns
+- Crafts tailored descriptions for each design to perfectly reflect its style and features
 
 ### 2) Secure Authentication System:
 - Password hashing for data security
@@ -24,6 +25,7 @@
 2) Backend: Node.js
 3) Database: MongoDB
 4) Image Generation: Clipdrop API
+5) Description Generation: Google Gemini
 
 <br>
 
@@ -39,7 +41,7 @@
     npm install
 
 ### 4) Add API keys
-- Add your MongoDB URI, Clipdrop API key, JWT Secret Key, and Gmail App Password to the .env file located in the server folder
+- Add your MongoDB URI, Clipdrop API key, JWT Secret Key, Google Gemini API key, and Gmail App Credentials to the .env file located in the server folder
 
 ### 5) Run the Application
 - Open integrated terminals in both the client and server folders
