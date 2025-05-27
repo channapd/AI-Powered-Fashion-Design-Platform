@@ -25,7 +25,7 @@
 2) Backend: Node.js
 3) Database: MongoDB
 4) Image Generation: Clipdrop API
-5) Description Generation: Google Gemini
+5) Description Generation: Google Gemini API
 
 <br>
 
