@@ -11,11 +11,14 @@
 - JWT Token-based authorization for secure sessions<br>
 - OTP-based Email verification to ensure authentic user registration
 - Password reset mechanism for easy account recovery
+- Settings page to update user-related information
 
 
 ### 3) Design Management:
 - Download designs in high-quality formats
 - Save creations for future access
+- Delete saved designs when no longer needed
+- Search saved designs by name or keywords
 
 <br>
 
